@@ -43,7 +43,7 @@ header a{
 	/*text-transform:uppercase;*/
 	font-size:20px;
 }
-header #brand h2{
+header .brand h2{
 	float: center;
 	color:#ffffff;
 }
@@ -51,7 +51,7 @@ header nav {
 	float: center;
 	margin-top: 50px;
 }
-section #welcome h1{
+section .welcome h1{
 	font-weight: none;
 	font-size: 70px;
 	font-size: 5.5vw;
@@ -59,7 +59,7 @@ section #welcome h1{
 	font-family: courier;
 	margin-top: 50px;
 }
-section #welcome p{
+section .welcome p{
 	font-size: 70px;
 	font-size: 5.5vw;
 	color:#ffffff;
@@ -89,7 +89,7 @@ section #welcome p{
 
 
 /*Styling the login page*/
-#bodyLogin {
+.bodyLogin {
 	background: url('../images/computer-3076956__340.jpg') no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -129,7 +129,7 @@ input[type= email]{
 }
 
 
-#signup{
+.signup{
 	position: relative;
 	top:10px;
 }
@@ -149,13 +149,13 @@ input[type= email]{
 	top:1vw;
 }
 /*Styling the signup page*/
-#bodySign {
+.bodySign {
 	background: url('../images/computer-2242264__340.jpg') no-repeat;
 	background-size: cover;
 	background-position: center center;
 }
 	/*Styling the dashboard*/
-#bodyDash {
+.bodyDash {
 	background: url('../images/vintage-1170654__340.jpg') no-repeat 0 -200px;
 	background-size: cover;
 	background-position: center center;
@@ -166,14 +166,14 @@ h2{
 	font-size: 2vw;
 	font-family:courier;
 }
-#dashqns{
+.dashqns{
 	color: #ffffff;
 	font-size: 1.5vw;
 	font-family:courier;
 	float: right;
 	margin-right:10px;
 }
-#dashprofile{
+.dashprofile{
 	color: #ffffff;
 	font-size: 1.5vw;
 	font-family:courier;
