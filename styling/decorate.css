@@ -103,7 +103,7 @@ input[type= text]{
 	font-size:15px;
 	font-family: courier;
 	border-radius: 8px;
-	color: black;
+	color: #000000;
 }
 input[type= password]{
 	width: 30vw;
@@ -114,7 +114,7 @@ input[type= password]{
 	font-size:15px;
 	font-family: courier;
 	border-radius: 8px;
-	color: black;
+	color: #000000;
 }
 input[type= email]{
 	width: 30vw;
@@ -125,7 +125,7 @@ input[type= email]{
 	font-size:15px;
 	font-family: courier;
 	border-radius: 8px;
-	color: black;
+	color: #000000;
 }
 
 
@@ -136,7 +136,7 @@ input[type= email]{
 
 .formlabels {
 	font-size: 1.2vw;
-	color: #ffffff;
+	color: #000000;
 	font-family: courier;
 	text-align: center;
 }
